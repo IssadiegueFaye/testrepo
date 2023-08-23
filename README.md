@@ -1,2 +1,2 @@
 # testrepo
-Repository de testr
+Repository de teste
